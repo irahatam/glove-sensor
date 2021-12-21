@@ -16,3 +16,14 @@ Arduino Nano is connected to the breadboard, battery or laptop for power, speake
   <li> RFID Scanner </li>
   <li> 9V Battery Holder, with the batteries or Micro USB to USB-C cable </li>
 </ul>
+
+### Documentation
+<img width="326" alt="Screen Shot 2021-12-21 at 5 52 18 PM" src="https://user-images.githubusercontent.com/55295614/147007874-37628e40-3b56-4663-9be7-2fc66ed26216.png">
+<img width="299" alt="Screen Shot 2021-12-21 at 5 52 33 PM" src="https://user-images.githubusercontent.com/55295614/147007898-cfef5eab-2821-47dc-88b4-0b17708b3632.png">
+<img width="338" alt="Screen Shot 2021-12-21 at 5 52 40 PM" src="https://user-images.githubusercontent.com/55295614/147007905-9020974d-e1e8-4b5e-b4bc-3799c5d0200d.png">
+<p> Scanning RFID/NFC tag to find the UID. </p>
+![image](https://user-images.githubusercontent.com/55295614/147007915-45e586f4-9f5c-4921-8fa1-49d6c543aeb3.png)
+<p> Serial console printing out items. </p>
+
+https://user-images.githubusercontent.com/55295614/147008003-87b020e7-fb70-498e-9608-7c09f50a172d.mov
+
