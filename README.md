@@ -2,6 +2,8 @@
 ## Final Project for DM-GY Interaction Design Studio
 ## Matahari K Herwin - mkh428
 
+Video Documentation: https://www.youtube.com/embed/iXn-aaa3NBk
+
 ### How It Works
 <img width="632" alt="Screen Shot 2021-12-21 at 5 46 45 PM" src="https://user-images.githubusercontent.com/55295614/147007381-33d44dfd-caf6-4670-b660-c6e00f08546e.png">
 
@@ -24,5 +26,3 @@ Arduino Nano is connected to the breadboard, battery or laptop for power, speake
 Scanning RFID/NFC tag to find the UID.
 <img width="884" alt="Screen Shot 2021-12-21 at 5 58 10 PM" src="https://user-images.githubusercontent.com/55295614/147008370-121ce8ee-1777-4547-b788-e1f90520aa58.png">
 Serial console printing out items.
-
-Video Documentation: https://www.youtube.com/embed/iXn-aaa3NBk
