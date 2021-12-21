@@ -25,5 +25,4 @@ Arduino Nano is connected to the breadboard, battery or laptop for power, speake
 ![image](https://user-images.githubusercontent.com/55295614/147007915-45e586f4-9f5c-4921-8fa1-49d6c543aeb3.png)
 <p> Serial console printing out items. </p>
 
-https://user-images.githubusercontent.com/55295614/147008003-87b020e7-fb70-498e-9608-7c09f50a172d.mov
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iXn-aaa3NBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
